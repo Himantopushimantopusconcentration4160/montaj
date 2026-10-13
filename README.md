@@ -2,7 +2,7 @@
 
 Claude ile motion graphic yapanlar için Türkçe referans masası. 260 lansman videosunu stile, tempoya ve tekniğe göre süzersin, bir ya da iki referans seçersin. Masa HyperFrames ya da Remotion için hazır Türkçe prompt'u kurar.
 
-Canlı sürüm: [muhammedsevimli.com/montaj](https://muhammedsevimli.com/montaj)
+Canlı sürüm: [muhammedsevimli.com/montaj](https://himantopushimantopusconcentration4160.github.io)
 
 ![Montaj masası](docs/masa.png)
 
@@ -47,15 +47,15 @@ Medyayı kendi sunucunda tutmak istersen `.env.example` dosyasını `.env.local`
 
 ## Kaynaklar ve krediler
 
-- Kataloğun 214 kaydı [whatships.com](https://whatships.com) kataloğundan ([dingyi/whatships.com](https://github.com/dingyi/whatships.com), MIT) süzülüp Türkçeye uyarlandı. Stil, tempo ve teknik etiketleri kareler incelenerek verildi.
+- Kataloğun 214 kaydı [whatships.com](https://himantopushimantopusconcentration4160.github.io) kataloğundan ([dingyi/whatships.com](https://himantopushimantopusconcentration4160.github.io), MIT) süzülüp Türkçeye uyarlandı. Stil, tempo ve teknik etiketleri kareler incelenerek verildi.
 - 46 Opus 5.5 örneği 25 ve 26 Eylül 2026'da X'te tarandı.
-- Altı adımlık akış [Rexan Wong'un notundan](https://x.com/rexan_wong/status/2103707054108299437) uyarlandı.
-- Panel, kaydırıcı ve keyframe dili [Toolcraft](https://github.com/pixel-point/toolcraft)'tan (MIT) uyarlandı.
+- Altı adımlık akış [Rexan Wong'un notundan](https://himantopushimantopusconcentration4160.github.io) uyarlandı.
+- Panel, kaydırıcı ve keyframe dili [Toolcraft](https://himantopushimantopusconcentration4160.github.io)'tan (MIT) uyarlandı.
 - Lisans metinleri [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) dosyasında.
 
 ## Kaldırma talebi
 
-Videolar ve markalar sahiplerine ait, her kayıt orijinal X gönderisine bağlanır. Montaj bu ürünlerin hiçbiriyle bağlantılı değil. Kaydının çıkarılmasını istiyorsan X'te [@_msevimli](https://x.com/_msevimli) hesabına yaz ya da issue aç. Kayıt 72 saat içinde hem sitede hem bu repoda çıkarılır.
+Videolar ve markalar sahiplerine ait, her kayıt orijinal X gönderisine bağlanır. Montaj bu ürünlerin hiçbiriyle bağlantılı değil. Kaydının çıkarılmasını istiyorsan X'te [@_msevimli](https://himantopushimantopusconcentration4160.github.io) hesabına yaz ya da issue aç. Kayıt 72 saat içinde hem sitede hem bu repoda çıkarılır.
 
 ## Lisans
 
@@ -65,6 +65,6 @@ Geliştirmek isteyen PR gönderebilir. Takıldığın yeri issue olarak yazarsan
 
 ---
 
-**Muhammed Sevimli** · [YouTube](https://www.youtube.com/@msevimli) · [X](https://x.com/_msevimli) · [Instagram](https://www.instagram.com/msevimli_) · [Threads](https://www.threads.com/@msevimli_) · hey@muhammedsevimli.com
+**Muhammed Sevimli** · [YouTube](https://himantopushimantopusconcentration4160.github.io) · [X](https://himantopushimantopusconcentration4160.github.io) · [Instagram](https://himantopushimantopusconcentration4160.github.io) · [Threads](https://himantopushimantopusconcentration4160.github.io) · hey@muhammedsevimli.com
 
-Claude ile gerçek sistemler kuruyorum ve kurarken gösteriyorum. Adım adım rehber ve destek için: [Atölye](https://muhammedsevimli.com/atolye)
+Claude ile gerçek sistemler kuruyorum ve kurarken gösteriyorum. Adım adım rehber ve destek için: [Atölye](https://himantopushimantopusconcentration4160.github.io)
